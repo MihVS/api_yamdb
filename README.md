@@ -11,6 +11,14 @@
 Благодарные или возмущённые пользователи оставляют к произведениям текстовые **отзывы** (**Review**) и ставят произведению оценку в диапазоне от одного до десяти (целое число); из пользовательских оценок формируется усреднённая оценка произведения — **рейтинг** (целое число). На одно произведение пользователь может оставить только один отзыв.
 
 
+## **Технологии**
+![python version](https://img.shields.io/badge/Python-3.9-yellowgreen?logo=python)
+![django version](https://img.shields.io/badge/Django-2.2-yellowgreen?logo=django)
+![djangorestframework version](https://img.shields.io/badge/djangorestframework-3.12-yellowgreen?logo=django)
+![pytest version](https://img.shields.io/badge/pytest-6.2-yellowgreen?logo=pytest)
+![sqlite version](https://img.shields.io/badge/SQLite-3-yellowgreen?logo=sqlite)
+![requests version](https://img.shields.io/badge/requests-2.26-yellowgreen)
+
 
 ## Ресурсы API YaMDb
 
